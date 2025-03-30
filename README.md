@@ -1,4 +1,4 @@
-## Time Complexity Analysis
+## Talant's first assignment
 
 - **Problem 1 (Find Minimum in Array)**: O(n) - Recursively checks each element.
 - **Problem 2 (Find Average of Array)**: O(n) - Needs to sum all elements.
